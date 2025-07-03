@@ -53,4 +53,5 @@ Here is a pre-start checklist:
 ## Implementation
 
 Phase 1 and Fork Done
+
 -Forked and learning python fundamentals right now for module 2.
